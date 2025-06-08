@@ -1,0 +1,1 @@
+(This is a placeholder for the full whitepaper. Content is stored in your MChain document. You can copy the full content from the ChatGPT canvas into this file.)
